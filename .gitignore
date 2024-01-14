@@ -1,0 +1,6 @@
+venv/
+.vscode/
+data/*
+!data/raw_data.csv
+models/
+!mlflow/models/
