@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1705229583491
+current_stage: None
+description: null
+last_updated_timestamp: 1705229583491
+name: best_xgboost
+run_id: 44c4b38ec2b2462bb1f1eb5324b3f19e
+run_link: null
+source: /home/ml-srv-admin/yet_another_mlops_project/mlflow/1/44c4b38ec2b2462bb1f1eb5324b3f19e/artifacts/best_xgboost
+status: READY
+status_message: null
+storage_location: /home/ml-srv-admin/yet_another_mlops_project/mlflow/1/44c4b38ec2b2462bb1f1eb5324b3f19e/artifacts/best_xgboost
+user_id: null
+version: 2

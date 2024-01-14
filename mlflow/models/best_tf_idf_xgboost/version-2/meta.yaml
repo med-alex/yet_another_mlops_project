@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1705241872787
+current_stage: None
+description: null
+last_updated_timestamp: 1705241872787
+name: best_tf_idf_xgboost
+run_id: f70552824cb543a69be118c538742f58
+run_link: null
+source: /home/ml-srv-admin/yet_another_mlops_project/mlflow/9/f70552824cb543a69be118c538742f58/artifacts/best_tf_idf_xgboost
+status: READY
+status_message: null
+storage_location: /home/ml-srv-admin/yet_another_mlops_project/mlflow/9/f70552824cb543a69be118c538742f58/artifacts/best_tf_idf_xgboost
+user_id: null
+version: 2

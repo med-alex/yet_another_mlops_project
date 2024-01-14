@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1705240180485
+current_stage: None
+description: null
+last_updated_timestamp: 1705240180485
+name: best_transf_xgboost
+run_id: 91c9f817a19a42a494dc6ec1b033d653
+run_link: null
+source: /home/ml-srv-admin/yet_another_mlops_project/mlflow/5/91c9f817a19a42a494dc6ec1b033d653/artifacts/best_transf_xgboost
+status: READY
+status_message: null
+storage_location: /home/ml-srv-admin/yet_another_mlops_project/mlflow/5/91c9f817a19a42a494dc6ec1b033d653/artifacts/best_transf_xgboost
+user_id: null
+version: 1

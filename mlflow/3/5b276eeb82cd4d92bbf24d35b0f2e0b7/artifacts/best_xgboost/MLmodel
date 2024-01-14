@@ -1,0 +1,20 @@
+artifact_path: best_xgboost
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.10.12
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: xgb
+    xgb_version: 2.0.3
+mlflow_version: 2.9.2
+model_size_bytes: 576963
+model_uuid: 7df94ea855d3429ab6cb95ebc91957d0
+run_id: 5b276eeb82cd4d92bbf24d35b0f2e0b7
+utc_time_created: '2024-01-14 11:08:29.238500'
